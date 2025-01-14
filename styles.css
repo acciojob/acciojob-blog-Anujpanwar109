@@ -2,6 +2,7 @@
 img{
 	height:200px;
 }
-#abc{
-	margin:0 auto;
+#abc {
+  margin: 0 auto;
+  width: fit-content; /* Ensures the element can be centered */
 }
